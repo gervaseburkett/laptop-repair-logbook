@@ -13,12 +13,6 @@ This repository is a hands-on log of hardware repair jobs I’ve completed or as
 - **Tools Used:** Phillips screwdriver, plastic pry tool, plastic tweezers, and common sense 
 - **Time Taken:** 1 hour 20 minutes  
 
-## 📁 Contents
-
-- `logs/` – Individual markdown or text files per repair job
-- `templates/` – Entry templates for easy logging
-- `images/` – Before/after photos of certain repairs (where available)
-
 ## 🚧 Completed
 
 I'm currently adding past repair notes and organizing them by device type.
