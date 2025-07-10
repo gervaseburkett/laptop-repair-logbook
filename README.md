@@ -13,9 +13,9 @@ This repository is a hands-on log of hardware repair jobs I’ve completed or as
 - **Tools Used:** Phillips screwdriver, plastic pry tool, plastic tweezers, and common sense 
 - **Time Taken:** 1 hour 20 minutes  
 
-## 🚧 Completed
-
-I'm currently adding past repair notes and organizing them by device type.
+- **Time Taken:** 1 hour 
+- **Status:** ✅ Fixed  
+- **Next Steps:** N/A
 
 
 # 🔋 Repair Log: MacBook 12" (Model A1534) – Battery Replacement
